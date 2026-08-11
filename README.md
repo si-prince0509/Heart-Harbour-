@@ -25,4 +25,4 @@ romantic interface and interactive user experience.
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Prince & Priyam
+Made with ❤️ by Prince
